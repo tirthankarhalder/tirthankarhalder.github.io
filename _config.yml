@@ -21,7 +21,7 @@ repository               : "tirthankarhalder/tirthankarhalder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1697384004856.png"
+  avatar           : "1697384004856.jpeg"
   name             : "Tirtankar Halder"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
