@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Tirthankar Halder"
 title_separator          : "-"
 name                     : &name "Tirthankar Halder"
 description              : &description "personal website"
@@ -24,7 +24,7 @@ author:
   avatar           : "1697384004856.jpeg"
   name             : "Tirtankar Halder"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am presently pursuing MS (Research) at the Indian Institute of Technology Kharagpur, India. I am a skilled professional with expertise in designing advanced Cyber-Physical Aerial Systems and flying Remotely Piloted Vehicles (RPVs) for different application domains. My research interests primarily include ubiquitous computing, ROS2, and JC&S on Cyber-Physical aerial systems."
   location         : "Kolkata, India"
   employer         : "Indian Institute of Technolgy,Kharahpur"
   uri              : # URL
