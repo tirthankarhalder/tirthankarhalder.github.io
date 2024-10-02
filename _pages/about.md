@@ -1,19 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About mE"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+I am currently a MS research scholar in the [G S Sanyal School of Telecommunications](http://cse.iitkgp.ac.in/) at IIT Kharagpur, India. I am pursuing my MS. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) and Prof. [Debarati Sen](https://cse.iitkgp.ac.in/~sandipc/). 
+<!-- I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/).  -->
+
+<!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu
+](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
+
+My research interests include the areas of ubiquitous computing, ROS2, and JC&S on Cyber-Physical aerial systems etc.
+
+Primary Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Experience with mmWave and acoustic FMCW signal processing techniques. I have used mmWave and accoustic FMCW  sensors for localization, tracking and activity recognition of humans under indoor environments.
+1. Hands-on experience in hardware prototyping including circuit design, circuit debugging, deployment. Developed prototype hardwares for Embedded Pollution Sensors mounted on a drone for air quality assesment. 
+1. Experience conducting human research studies. Conducted real-time driver inattenviness study using COTS mmWave Radars by collecting doppler shifts in the mmWave data because of drivers attentive body movements, such as talking, yawning, nodding, etc. 
+1. Experience with design of UAVs, control systems, RF communication devices. Developed drones using ArduCopter APM flight controller board and mounted air quality measurement sensors.
+1. Experience with Computer Networks, IoT devices, Distributed Sensor Networks. Worked on energy optimisation in 5G Cellular Networks, using network simulator ns-3.
 
 Getting started
 ======
