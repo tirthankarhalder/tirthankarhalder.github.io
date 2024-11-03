@@ -40,4 +40,4 @@ Achievements
 
 Visit tracker
 ======
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=KwEP1dt3E9AlTR2t9GWzGJsfg28v_Wy-4ZvVhKZVsDM"></script>
+<a href="http://www.clustrmaps.com/map/Tirthankarhalder.github.io" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=KwEP1dt3E9AlTR2t9GWzGJsfg28v_Wy-4ZvVhKZVsDM" /></a>
