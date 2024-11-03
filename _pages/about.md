@@ -40,4 +40,4 @@ Achievements
 
 Visit tracker
 ======
-<a href="https://clustrmaps.com/site/1bupr" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_J1bSlDqkAH17JefeoWFvBNFiw5CU7WL6bDNDBzGUUw&cl=ffffff"></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=KwEP1dt3E9AlTR2t9GWzGJsfg28v_Wy-4ZvVhKZVsDM"></script>
