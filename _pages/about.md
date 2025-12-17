@@ -23,6 +23,7 @@ Education
 ======
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="http://iitkgp.ac.in/"><strong>Indian Institute of Technology Kharagpur </strong></a> <span style="float: right; ">2024 - present</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">MS(Research) in G S Sanyal School of Telecommunications <span style="float: right; ">mmWave Sensing</span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><a href="https://nitdgp.ac.in/"> <strong>Haldia Institute of Technolgy West Bengal </strong></a> <span style="float: right; ">2016 - 2020</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Department of Computer Science and Engineering <span style="float: right; ">9.37 CGPA</span></p><hr />
+
 <!-- * <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Higher Secondary School</strong> <span style="float: right; ">2014-2016</span></p><p style="margin-bottom: 0em;  margin-top: -0.2em;">Raipur Sri Sri Ramkrishna Amrita Vidyalaya, S 24 P <span style="float: right; "></span></p><hr />
 * <p style="margin-bottom: 1em;  margin-top: 1em;"><strong>Secondary School</strong> <span style="float: right; ">2014</span></p><p style="margin-bottom: 1em;  margin-top: -0.2em;">Raipur Sri Sri Ramkrishna Amrita Vidyalaya, S 24 P<span style="float: right; ">%</span></p> -->
 
@@ -41,4 +42,4 @@ Achievements
 
 Visit tracker
 ======
-<a href="https://clustrmaps.com/site/1c20v"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=KwEP1dt3E9AlTR2t9GWzGJsfg28v_Wy-4ZvVhKZVsDM&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1c20v"  title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=KwEP1dt3E9AlTR2t9GWzGJsfg28v_Wy-4ZvVhKZVsDM&cl=ffffff" /></a>
