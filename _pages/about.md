@@ -8,25 +8,16 @@ redirect_from:
 ---
 
 
-I am currently a MS research scholar in the [G S Sanyal School of Telecommunications](http://cse.iitkgp.ac.in/) at IIT Kharagpur, India. I am pursuing my MS. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) and Prof. [Debarati Sen](https://cse.iitkgp.ac.in/~sandipc/). 
-<!-- I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/).  -->
+I am currently a MS research scholar in the [G S Sanyal School of Telecommunications](http://cse.iitkgp.ac.in/) at IIT Kharagpur, India. I am pursuing my MS. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) and Prof. [Debarati Sen](https://sites.google.com/view/debarati-sen).I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), and unmanned aerial vehicles (UAVs).
 
-<!-- Moreover, as a Visiting Postgraduate Research Student at the esteemed School of Computing and Information Systems at Singapore Management University ([SMU](https://www.smu.edu.sg/)), I am engaged in research work within the dynamic domain of the Human-Machine Collaborative Systems LAB, collaborating closely with [Prof. Archan Misra](https://sites.google.com/view/archan-misra) and [Prof. Thivya Kandappu
-](https://faculty.smu.edu.sg/profile/thivya-kandappu-541). -->
-
-My research interests include the areas of ubiquitous computing, ROS2, and JC&S on Cyber-Physical aerial systems etc.
 
 Primary Research Experience
 ======
-1. Experience with design of adavnced cyber physical aerial systems, control systems, RF communication devices assembly. Have hands-on-experience of developing UAV/UGV robotics systems.
+1. Experience with mmWave and acoustic FMCW signal processing techniques. I have used mmWave and accoustic FMCW sensors for 3d reconstruction, localization, tracking and activity recognition of humans under indoor environments.
+1. Experience in end-to-end UAV/UGV system design using Pixhawk 6X flight controller, with robust interfacing of application-oriented subsystems for sensing, perception, navigation, and mission-specific autonomy. 
+1. Hands-on experience in hardware prototyping and field deployment, including the design and development of embedded pollution-sensing hardware for air-quality assessment.
 
-1. Experience with UAV firmware customization. 
-
-1. Experience with mmWave and acoustic FMCW signal processing techniques. I have used mmWave and accoustic FMCW  sensors for localization, tracking and mapping of indoor environments.
-<!-- 1. Hands-on experience in hardware prototyping including circuit design, circuit debugging, deployment. Developed prototype hardwares for Embedded Pollution Sensors mounted on a drone for air quality assesment.  -->
-<!-- 1. Experience conducting human research studies. Conducted real-time driver inattenviness study using COTS mmWave Radars by collecting doppler shifts in the mmWave data because of drivers attentive body movements, such as talking, yawning, nodding, etc.  -->
-
-1. Experience with Computer Networks, IoT devices, Distributed Sensor Networks. 
+During my bachelor’s studies, I served as a Program Developer Intern at [UiT – The Arctic University of Norway] (https://en.uit.no/startsida), Tromsø, as part of a joint collaboration between the Centre for New Antibacterial Strategies (CANS), led by Prof. Christian S. Lentz, and the Host–Microbe Interaction (HMI) research group, led by Prof. Mona Johannessen. Under the supervision of Jonathan Hira and Arif Ahmed, my work involved developing a software framework for an embedded medical imaging system to perform real-time colony growth analysis and quantify antibacterial tolerance across heterogeneous bacterial populations.
 
 Education
 ======
