@@ -5,10 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sidebar:
+  - sidebar-custom
 ---
 
 
-I am currently a MS research scholar in the [G S Sanyal School of Telecommunications](http://cse.iitkgp.ac.in/) at IIT Kharagpur, India. I am pursuing my MS. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) and Prof. [Debarati Sen](https://sites.google.com/view/debarati-sen).I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), and unmanned aerial vehicles (UAVs).
+I am currently a MS research scholar in the [G S Sanyal School of Telecommunications](https://www.iitkgp.ac.in/department/GS) at [IIT Kharagpur](https://www.iitkgp.ac.in/), India. I am pursuing my MS. under the supervision of Prof. [Sandip Chakraborty](https://cse.iitkgp.ac.in/~sandipc/) and Prof. [Debarati Sen](https://sites.google.com/view/debarati-sen).I am also a member of the research group [Ubiquitous Networked Systems Lab (UbiNet)](https://cse.iitkgp.ac.in/resgrp/ubinet/). My research interests lie broadly in the fields of millimeter-wave sensing, FMCW radars, human-computer interaction (HCI), and unmanned aerial vehicles (UAVs).
 
 
 Primary Research Experience
