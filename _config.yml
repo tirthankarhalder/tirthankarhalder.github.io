@@ -24,9 +24,9 @@ author:
   avatar           : "1697384004856.jpeg"
   name             : "Tirtankar Halder"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I am presently pursuing MS (Research) at the Indian Institute of Technology Kharagpur, India. I am a skilled professional with expertise in designing advanced Cyber-Physical Aerial Systems and flying Remotely Piloted Vehicles (RPVs) for different application domains. My research interests primarily include ubiquitous computing, ROS2, and JC&S on Cyber-Physical aerial systems."
+  bio              : "MS (Research) Scholar at the Indian Institute of Technology Kharagpur, India."
   location         : "Kolkata, India"
-  employer         : "Indian Institute of Technolgy,Kharahpur"
+  employer         : "Indian Institute of Technolgy,Kharagpur"
   uri              : # URL
   email            : "tirthankarhalder70@gmail.com" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-0889-646X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,11 +76,15 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+    title: 'Books'   
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles' 
+  patents:
+    title: 'Patents'
+  posters:
+    title: 'Conferences (Posters/Workshops/Demos)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
