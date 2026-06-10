@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "MIRO: Multi-Radar Identity and Ranging for Occupational Safety"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+type: publications
+permalink: /publication/pep-1
+date: 2023-02-14
+venue: 'Proceedings of the 2026 ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Authors: <b>Tirthankar Halder</b>, Argha Sen, Swadhin Pradhan, Rijurekha Sen, Sandip Chakraborty<br>
+[Download paper here](https://dl.acm.org/doi/full/10.1145/3774906.3802761)
