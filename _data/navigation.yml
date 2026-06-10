@@ -7,8 +7,11 @@ main:
   # - title: "Projects & Talks"
   #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  - title: "Coffee & Snaps"
+    url: /coffee-snaps/
     
   # - title: "Portfolio"
   #   url: /portfolio/
