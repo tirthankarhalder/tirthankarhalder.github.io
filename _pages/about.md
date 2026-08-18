@@ -23,11 +23,11 @@ Education
   <a href="http://iitkgp.ac.in/"><strong>Indian Institute of Technology Kharagpur</strong></a>
   <span style="float: right;">January 2024 – May 2026</span>
 </p>
-<p class="muted" style="margin-bottom: 0em; margin-top: 0.2em;">
+<p style="margin-bottom: 0em; margin-top: 0.2em; color: #555;">
   MS(Research), Indian Institute of Technology
   <span style="float: right;">9.56 CGPA</span>
 </p>
-<p class="muted" style="margin-bottom: 0em; margin-top: 0.2em;">
+<p style="margin-bottom: 0em; margin-top: 0.2em; color: #555;">
   Supervisor: Prof. Sandip Chakraborty & Prof. Debarati Sen &nbsp;|&nbsp; Thesis: Next-Gen mmWave-based Vision Sensing through UAV for Navigation and Material-Aware 3D Reconstruction
 </p>
 <hr/>
@@ -36,11 +36,11 @@ Education
   <a href="https://hithaldia.ac.in/"><strong>Haldia Institute of Technology, West Bengal</strong></a>
   <span style="float: right;">July 2019 – August 2023</span>
 </p>
-<p class="muted" style="margin-bottom: 0em; margin-top: 0.2em;">
+<p style="margin-bottom: 0em; margin-top: 0.2em; color: #555;">
   B.Tech, Department of Computer Science and Engineering
   <span style="float: right;">9.37 CGPA</span>
 </p>
-<p class="muted" style="margin-bottom: 0em; margin-top: 0.2em;">
+<p style="margin-bottom: 0em; margin-top: 0.2em; color: #555;">
   Supervisor: Prof. Subhankar Joardar (Dean & Former HOD) &nbsp;|&nbsp; Project: Object Detection with Few Shot Learning in Low-Computing Devices
 </p>
 <hr/>
@@ -52,7 +52,7 @@ Experience
   <a href="https://sric.iitkgp.ac.in/"><strong>Sponsored Research & Industrial Consultancy (SRIC), IIT Kharagpur</strong></a>
   <span style="float: right;">October 2023 – May 2026</span>
 </p>
-<p class="muted" style="margin-bottom: 0em; margin-top: 0.2em;">
+<p style="margin-bottom: 0em; margin-top: 0.2em; color: #555;">
   Junior Research Assistant
   <span style="float: right;">mmWave Sensing, Cyber Physical System</span>
 </p>
