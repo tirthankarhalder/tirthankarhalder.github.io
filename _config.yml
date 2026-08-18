@@ -21,11 +21,11 @@ repository               : "tirthankarhalder/tirthankarhalder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1697384004856.jpeg"
+  avatar           : "Profile.jpeg"
   name             : "Tirthankar Halder"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "MS (Research) Scholar at IIT Khargpur, India."
-  location         : "Kolkata, India"
+  bio              : "Research Associate at CNRS."
+  location         : "Create Tower #08-02, Create Way, NUS UTown , Singapore, 138602"
   employer         : #"Indian Institute of Technolgy,Kharagpur"
   uri              : # URL
   email            : #"tirthankarhalder70@gmail.com" 
