@@ -55,6 +55,10 @@ author_profile: true
   color: #555;
   background: #fafafa;
 }
+[data-theme="dark"] .photo-grid figcaption {
+  color: #9aa1a8;
+  background: #24282c;
+}
 </style>
 
 <div class="photo-grid">

@@ -1,3 +1,29 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function() {
+    var button = document.getElementById('theme-toggle');
+    if (!button) return;
+
+    var icon = button.querySelector('i');
+    var root = document.documentElement;
+
+    function render() {
+      var dark = root.getAttribute('data-theme') === 'dark';
+      icon.className = dark ? 'fas fa-sun' : 'fas fa-moon';
+      button.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+      button.setAttribute('title', button.getAttribute('aria-label'));
+    }
+
+    button.addEventListener('click', function() {
+      var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      render();
+    });
+
+    render();
+  })();
+</script>
+
 {% include analytics.html %}
